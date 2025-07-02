@@ -3,11 +3,11 @@ from os import getenv
 from dotenv import load_dotenv
 
 
-API_ID = int(27079591) #optional
-API_HASH = "" #optional
+API_ID = int(25440275) #optional
+API_HASH = "44bb875668b455437ebd2939a2027d6e" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(6219473300)
+OWNER_ID = int(5968988297)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
 ALIVE_PIC = 'https://graph.org/file/889eb69b32f94476bc712-9558bff09cbd6faaf6.jpg.jpg'
